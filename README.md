@@ -1,2 +1,2 @@
-# shop-n-chirp
+# shopnchirp
 Browse and notify
